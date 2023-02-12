@@ -36,13 +36,13 @@ Graduated in Systems Development Analysis. I seek to learn more modern technolog
 ```javascript
 const antonio = {
     pronouns: "He" | "Him",
-    code: ["Javascript","React", "Typescript"],
+    code: ["Javascript","React Native", "Typescript"],
     askMeAbout: ["WebDev", "Tech", "Gaming"],
     technologies: {
         backEnd: {
-            js: [""],
+            js: ["Node.js"],
         },
-        devOps: ["AWS", "Docker"],
+        devOps: ["Docker"],
         databases: ["MySql", "Mongo"]
     }
 };
