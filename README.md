@@ -23,10 +23,9 @@ Graduated in Systems Development Analysis. I seek to learn more modern technolog
 <p />
   
 <p align="left">
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="25" height="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="25" height="25" />
 <p/>
   
 <br>
@@ -36,13 +35,13 @@ Graduated in Systems Development Analysis. I seek to learn more modern technolog
 ```javascript
 const antonio = {
     pronouns: "He" | "Him",
-    code: ["Java", "Javascript","React Native", "Typescript"],
     askMeAbout: ["WebDev", "Tech", "Gaming"],
+    code: ["Javascript", "Java"],
     technologies: {
         backEnd: {
-            java: ["springboot"]
+            java: ["springboot", "Node.js"]
         },
-        devOps: ["Docker"],
+        devOps: ["Docker", "Git"],
         databases: ["MySql", "Mongo"]
     }
 };
