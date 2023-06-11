@@ -36,7 +36,7 @@ Graduated in Systems Development Analysis. I seek to learn more modern technolog
 const antonio = {
     pronouns: "He" | "Him",
     askMeAbout: ["WebDev", "Tech", "Gaming"],
-    code: ["Javascript", "Java"],
+    code: ["Java", "JavaScript"],
     technologies: {
         backEnd: {
             java: ["springboot"]
