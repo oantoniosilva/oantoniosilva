@@ -39,10 +39,10 @@ const antonio = {
     code: ["Javascript", "Java"],
     technologies: {
         backEnd: {
-            java: ["springboot", "Node.js"]
+            java: ["springboot"]
         },
         devOps: ["Docker", "Git"],
-        databases: ["MySql", "Mongo"]
+        databases: ["PostgreSQL", "Mongo"]
     }
 };
 ```
