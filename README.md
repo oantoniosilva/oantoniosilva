@@ -1,24 +1,23 @@
 ## Hi everyone🖖
 I am ***Antonio Silva***, a ***Software Developer*** from Brazil 🇧🇷
 
-<p align="left">
-  <a href="mailto:antoniopsilva083@gmail.com" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Antonio%20Silva-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:antoniopsilva083@gmail.com" />
- </a>
-  
-  <a href="https://www.linkedin.com/in/antoniosilva-developer/" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Antonio%20Silva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/antoniosilva-developer" />
- </a>
-  
-</p>
-
 ##
 
 <p>
 Graduated in Systems Development Analysis. I seek to learn more modern technologies, practices and concepts that are aligned with the market.
 <p />
-  
+
 <br>
+
+<p align="left">
+  <a href="mailto:antoniopsilva083@gmail.com" alt="Gmail">
+    <img src="https://img.shields.io/badge/-Antonio%20Silva-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:antoniopsilva083@gmail.com" />
+  </a>
+  
+  <a href="https://www.linkedin.com/in/antoniosilva-developer/" alt="Linkedin">
+    <img src="https://img.shields.io/badge/-Antonio%20Silva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/antoniosilva-developer" />
+  </a>  
+</p>
 
 ### <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="50"> A little more about me...  
 
