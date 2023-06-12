@@ -1,5 +1,5 @@
 ## Hi everyone🖖
-I am Antonio Silva, a ***Software Developer*** from Brazil 🇧🇷
+I am ***Antonio Silva***, a ***Software Developer*** from Brazil 🇧🇷
 
 <p align="left">
   <a href="mailto:antoniopsilva083@gmail.com" alt="Gmail">
