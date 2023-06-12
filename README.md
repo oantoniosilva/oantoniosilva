@@ -18,12 +18,6 @@ I am ***Antonio Silva***, a ***Software Developer*** from Brazil 🇧🇷
 Graduated in Systems Development Analysis. I seek to learn more modern technologies, practices and concepts that are aligned with the market.
 <p />
   
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="20" height="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="20" height="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20" height="20" />
-<p/>
-  
 <br>
 
 ### <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="50"> A little more about me...  
