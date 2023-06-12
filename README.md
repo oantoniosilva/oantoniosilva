@@ -1,5 +1,5 @@
-### Hi everyone 🖖
-I am a software developer from Brazil 🇧🇷
+## Hi everyone🖖
+I am Antonio Silva, a ***Software Developer*** from Brazil 🇧🇷
 
 <p align="left">
   <a href="mailto:antoniopsilva083@gmail.com" alt="Gmail">
@@ -8,10 +8,6 @@ I am a software developer from Brazil 🇧🇷
   
   <a href="https://www.linkedin.com/in/antoniosilva-developer/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Antonio%20Silva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/antoniosilva-developer" />
- </a>
-      
-  <a href="https://twitter.com/AntonioSilva_83" alt="Twitter">
-  <img src="https://img.shields.io/badge/-Antonio%20Silva-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://www.twitter.com/AntonioSilva_83" />
  </a>
   
 </p>
@@ -23,9 +19,9 @@ Graduated in Systems Development Analysis. I seek to learn more modern technolog
 <p />
   
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="25" height="25" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="25" height="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="20" height="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="20" height="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20" height="20" />
 <p/>
   
 <br>
