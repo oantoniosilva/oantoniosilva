@@ -28,7 +28,7 @@ const antonio = {
     code: ["Java", "JavaScript"],
     technologies: {
         backEnd: {
-            java: ["springboot"]
+            java: ["Spring Boot"]
         },
         devOps: ["Docker", "Git"],
         databases: ["PostgreSQL", "Mongo"]
