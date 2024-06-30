@@ -19,22 +19,6 @@ Graduated in Systems Development Analysis. I seek to learn more modern technolog
   </a>  
 </p>
 
-### <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="50"> A little more about me...  
-
-```javascript
-const antonio = {
-    pronouns: "He" | "Him",
-    askMeAbout: ["WebDev", "Tech", "Gaming"],
-    code: ["Java", "JavaScript"],
-    technologies: {
-        backEnd: {
-            java: ["Spring Boot"]
-        },
-        devOps: ["Docker", "Git"],
-        databases: ["PostgreSQL", "Mongo"]
-    }
-};
-```
 <br>
 
 <div align="center">
